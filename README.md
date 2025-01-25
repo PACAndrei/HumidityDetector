@@ -33,7 +33,7 @@ Humidity-Detector-Project/
 - **Signal Amplification**:
   - Transistor stages amplify the signal from the humidity sensor.
 - **Control Logic**:
-  - An RS latch (bistable multivibrator) maintains the state of the output until reset.
+  - An RS latch maintains the state of the output until reset.
 - **Protection**:
   - Diode circuitry protects the relay driver transistor from voltage surges.
 
