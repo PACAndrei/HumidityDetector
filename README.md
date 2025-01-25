@@ -42,7 +42,7 @@ Humidity-Detector-Project/
 2. View images in the `Images/` folder for quick previews of the schematic and PCB layout.
 
 ## Disclaimer
-This project was developed as part of a university course at **Faculty of Electronics, Telecommunications, and Information Technology || University POLITEHNICA Bucharest **. 
+This project was developed as part of a university course at **Faculty of Electronics, Telecommunications, and Information Technology || University POLITEHNICA Bucharest**. 
 The files and designs provided here are for educational and demonstration purposes only.
 
 ## License
