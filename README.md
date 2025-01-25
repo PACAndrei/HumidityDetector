@@ -1,7 +1,5 @@
 # HumidityDetector
 
-# Humidity Detector Project
-
 ## Project Overview
 This repository showcases the **Humidity Detector** project developed as part of a university course on CAD for Electronics. The project involved designing and implementing a two-layer PCB, starting from an initial schematic. The system includes a humidity sensor, amplification stages, a bistable RS latch, and a relay-controlled output for automated control of an external load.
 
